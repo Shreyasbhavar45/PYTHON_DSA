@@ -8,5 +8,6 @@ def linear_search(arr,target):
     return -1
 my_list = [4,2,8]
 target = 6
+target = 9
 result = linear_search(my_list,target)
 print(result)
