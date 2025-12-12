@@ -12,6 +12,7 @@ def bubble_sort(arr):
     return arr
             
 unsorted_list =[120,25,11,34,90,22,67] 
+unsorted_list =[23,54,776,89,75,43,78]
 result = bubble_sort(unsorted_list)  
 print("sorted list is:",result)   
    
