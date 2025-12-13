@@ -5,7 +5,7 @@ def binary_search(arr,target):
     end = size-1
 
     while(start <= end):
-        mid = (start +end)//2
+        mid = (start +end)//2 # 5//2== 2 answer it come in only integer answer not in float.
 
         if(arr[mid]==target):
             return mid #found the target
