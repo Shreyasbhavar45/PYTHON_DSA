@@ -1,4 +1,5 @@
 #decreasing pattern.
+'''increasing star '''
 def increase_pattern(n):
     for i in range(n):
         for j in range(i,n):
