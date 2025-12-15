@@ -1,7 +1,7 @@
-def rectangle():
-    for i in range(3):
-        for j in range(4):
-            print("*", end=" ")
+def rectangle(n,m):
+    for i in range(n):
+        for j in range(m):
+            print("*",end =" ")
         print()
 
-rectangle()
+rectangle(6,8)
