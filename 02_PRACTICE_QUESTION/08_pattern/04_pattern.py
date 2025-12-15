@@ -1,9 +1,10 @@
 #right angled triangle
 def right_angled_triangle(n):
-    for i in range(1, n + 1):        # rows
-        for j in range(i):           # columns
+    for i in range(1, n + 1):  # rows
+        for j in range(i):     # columns
             print("*", end=" ")
-        print()                      # new line after each row
+        print() 
+         # new line after each row
 
 
 # Taking input from user

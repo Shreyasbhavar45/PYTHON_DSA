@@ -1,7 +1,7 @@
 def inverted_pyramid(n):
     for i in range(n):
         # leading spaces
-        print(" " * i, end="")
+        print(" " * i, end=" ")
         # stars
         print("* " * (n - i))
 
