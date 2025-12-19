@@ -1,11 +1,14 @@
 def consecutive_max_numbers(arr):
-   max_count = 0
-   for i in range(0,lst):
-      if i in arr(lst>0):
-        max_count+=1
-      else:
-        return max_count
-        
-   
-lst = [1, 2, 3, 4, 5]
-consecutive_max_numbers(lst)
+    max_diff = 0
+
+    for i in range(len(arr) - 1):
+        diff = abs(arr[i] - arr[i + 1])
+
+        if diff > max_diff:
+            max_diff = diff
+
+    return max_diff
+
+
+lst = [1, 7, 3, 10, 5]
+print(consecutive_max_numbers(lst))
