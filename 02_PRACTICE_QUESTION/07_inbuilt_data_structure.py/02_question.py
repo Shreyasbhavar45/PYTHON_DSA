@@ -1,5 +1,12 @@
-def find_largest(numbers):
-    return max(numbers)
+def largest(arr):
+    largest_num = arr[0]
+    for i in range(1,len(arr)):
+        if arr[i]>largest_num:
+            largest_num=arr[i]
 
-numbers = [1,2,34,5,]
-print(find_largest(numbers))
+    return largest_num
+    
+num = [3,11, 7, 2, 9,10]
+result=largest(num)
+print(result)
+    
