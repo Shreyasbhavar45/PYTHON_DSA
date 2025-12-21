@@ -1,6 +1,7 @@
 '''Count Even and Odd Numbers in a List
 You are given a list f integers.
- Write a Python program that counts and returns the number of even and odd numbers in the list.'''
+ Write a Python program that counts and 
+ returns the number of even and odd numbers in the list.'''
 
 def count_even_or_odd(arr):
    even_count = 0
@@ -13,8 +14,7 @@ def count_even_or_odd(arr):
 
    return even_count,odd_count
 
-        
-   
+
 lst = [1, 2, 3, 4, 5]
 even,odd =count_even_or_odd(lst)
 print('even',even)
