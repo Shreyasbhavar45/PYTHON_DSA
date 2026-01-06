@@ -7,7 +7,7 @@ def largest(arr):
 
     return largest_num
     
-num = [3,11,33,7, 2, 9,8,10]
+num = [3,11,33,7, 2, 9,8,8,9,10]
 result=largest(num)
 print(result)
     
