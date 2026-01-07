@@ -9,5 +9,5 @@ def hollow_square(n):
 
 
 # Taking input from user
-n = int(input("Enter the side of square: "))
+n = int(input("Enter the side of square:-"))
 hollow_square(n)
