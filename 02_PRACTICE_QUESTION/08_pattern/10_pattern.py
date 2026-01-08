@@ -6,4 +6,4 @@ def increase_pattern(n):
             print("*",end = " ")
         print()
         
-increase_pattern(6)
+increase_pattern(8)
