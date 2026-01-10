@@ -6,7 +6,7 @@ def linear_search(arr,target):
             return index
         
     return -1
-my_list =[3,7,2,5]
-target = 2
+my_list =[3,7,2,5,8,7]
+target = 7
 result = linear_search(my_list,target)
 print(result)
