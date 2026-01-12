@@ -1,4 +1,4 @@
-#linear_search([3, 7, 2, 5], 2) should return 2
+#linear_search([3, 7, 2, 5], 2,54) should return 2
 def linear_search(arr,target):
     size = len(arr)
     for index in range(0,size):

@@ -1,5 +1,5 @@
 ## bubble sort :- is the way to sort the elements in ascending order. 
-## like example[120,25,11,34,90,22] itss answer is [11,22,25,34,90,120]
+## like example[120,25,11,34,90,22] itss answer is [11,22,25,34,90,120,45]
 def bubble_sort(arr):
     n = len(arr)
     for passes in range(0,n):

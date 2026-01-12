@@ -1,4 +1,4 @@
-#linear_search([1, 1, 2, 1], 1) should return 0
+#linear_search([1, 1, 2, 1], 1,3,4,5) should return 0
 def linear_search(arr,target):
     size = len(arr)
     for index in range(0,size):
