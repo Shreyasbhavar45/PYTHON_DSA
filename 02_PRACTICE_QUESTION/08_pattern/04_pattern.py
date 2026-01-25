@@ -7,4 +7,4 @@ def right_angled_triangle(n):
             print('*',end =' ')
 
         print()
-right_angled_triangle(8)
+right_angled_triangle(10)

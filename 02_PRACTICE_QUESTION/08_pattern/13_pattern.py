@@ -7,7 +7,7 @@ def hill_pattern(n):
         for j in range(i,n-1):
             print('*',end =' ')
         for j in range(i,n):
-            print('*',end=' ')
+            print('*',end='')
         print()
 
-hill_pattern(4)
+hill_pattern(7)
