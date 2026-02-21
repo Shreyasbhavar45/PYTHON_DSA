@@ -4,9 +4,12 @@ def linear_search(arr,target):
     for index in range(0,size):
         if(arr[index]==target):
             return index
-        
+    
     return -1
-my_list = [1,1,2,1]
-target = 1
-result =linear_search(my_list,target)
+
+
+
+my_list = [10,20,30,40,50]
+target = 50
+result = linear_search(my_list,target)
 print(result)
