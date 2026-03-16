@@ -11,3 +11,5 @@ def negative_number(arr):
 
     start = 0 
     end = size-1
+    
+    def negative numbers
