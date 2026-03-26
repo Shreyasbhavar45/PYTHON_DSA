@@ -1,0 +1,66 @@
+===============================
+📅 Day: 
+Topic: 
+Question Name: 
+===============================
+
+🔹 1. Problem Understanding:
+- Question kya bol raha hai?
+- Input / Output kya hai?
+
+--------------------------------
+
+🔹 2. Mera Approach (First Thinking):
+- Maine kaise socha?
+- Brute force kya tha?
+
+--------------------------------
+
+🔹 3. Dry Run:
+Example:
+Input:
+Step-by-step:
+Output:
+
+--------------------------------
+
+🔹 4. Optimized Approach:
+- Kya better kar sakta hoon?
+- Pattern use hua? (Two pointer / Binary search / etc.)
+
+--------------------------------
+
+🔹 5. Code:
+
+# (yaha apna code likh)
+
+--------------------------------
+
+🔹 6. Time & Space Complexity:
+- Time:
+- Space:
+
+--------------------------------
+
+🔹 7. Mistakes:
+- Maine kaha galti ki?
+- Kya samajh nahi aaya?
+
+--------------------------------
+
+🔹 8. Learning:
+- Naya kya sikha?
+- Next time kya yaad rakhna hai?
+
+--------------------------------
+
+🔹 9. Pattern Recognition:
+- Ye question kis pattern ka tha?
+  (Array / Two Pointer / Sliding Window / etc.)
+
+--------------------------------
+
+🔹 10. Confidence Level:
+(1 to 10)
+
+===============================
