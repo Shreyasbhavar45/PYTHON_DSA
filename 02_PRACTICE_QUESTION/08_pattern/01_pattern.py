@@ -5,4 +5,4 @@ def square_area(n):
         for j in range(n):
             print("*",end=" ")
         print()#moves to next line.
-square_area(6)
+square_area(7)
